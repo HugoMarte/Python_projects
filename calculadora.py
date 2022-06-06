@@ -18,7 +18,7 @@ def calculadora():
 
 
 if __name__=="__main__":
-    print ("Haz abierto la calculadora de Hugo! bitch!")
+    print ("Haz abierto la calculadora de Hugo!")
     calculadora()
     repetir = "si"
     while repetir == "si":
@@ -26,4 +26,4 @@ if __name__=="__main__":
         if repetir == "si":
             calculadora()
         else: 
-            print ("Bah! tampoco era para tanto mojon... aprende a sumar.")
+            print ("Gracias por utilizar esta calculadora. Hasta pronto!")
