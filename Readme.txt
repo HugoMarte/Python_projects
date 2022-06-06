@@ -1,1 +1,1 @@
-This are some of my python projects.
+This are some of my personal python projects.
